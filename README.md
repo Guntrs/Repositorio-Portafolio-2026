@@ -57,16 +57,15 @@ Ubicación: https://github.com/Guntrs/porfolio-data_analyst-gth
 
 Curso Fabric (Finalizado)
 
+Tecnologías:
+- dominio de los principales componentes de Microsoft Fabric, como Data Engineering, Data Factory, Power BI y Data Warehouse. 
+- transformar y manipular datos de forma eficiente.  
+- herramientas de Microsoft Fabric, como Spark Notebooks (con Python/PySpark y SQL/Spark SQL) y Dataflows Gen2.  
+- Dominar los distintos métodos de almacenamiento de datos en Fabric LakeHouse y Data Warehouse
 
-      - dominio de los principales componentes de Microsoft Fabric, como Data Engineering, Data Factory, Power BI y Data Warehouse.
-      - transformar y manipular datos de forma eficiente.
-      - herramientas de Microsoft Fabric, como Spark Notebooks (con Python/PySpark y SQL/Spark SQL) y Dataflows Gen2.
-      - Dominar los distintos métodos de almacenamiento de datos en Fabric LakeHouse y Data Warehouse
 
-
-
-  Ubicacion: https://github.com/Guntrs/Fabric
-
+Ubicación: https://github.com/Guntrs/Fabric
+    
   -----------------------------------------------------------------
 ## PROYECTO #5 
 
