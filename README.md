@@ -60,22 +60,7 @@ Curso Fabric
       - transformar y manipular datos de forma eficiente utilizando diversas herramientas de Microsoft Fabric, como Spark Notebooks (con Python/PySpark y SQL/Spark SQL) y Dataflows Gen2.
       - Dominar los distintos métodos de almacenamiento de datos en Fabric LakeHouse y Data Warehouse
 
-Fabric/
-│
-├── NB_Get_Daily_Data_Python.ipynb
-├── NB_Bronze_To_Silver_Transformations_Python.ipynb
-├── NB_Silver_To_Gold_Transformations_Python.ipynb
-│
-├── 1.Proyecto Overview.png
-├── 2.Estructura.png
-├── 3.Fabric Bronze to Silver.png
-├── 4.DFL_Bronze_To_Silver.png
-├── 4.LH_Bronze_to_Silver.png
-│
-├── 5.Normalizar Tablas con Python.png
-├── 6.Exportar tablas a LH Gold.png
-├── 7.Modelo Semantico.png
-├── 8.Informe Grafico Power BI.png
+
 
   Ubicacion: https://github.com/Guntrs/Fabric
 
