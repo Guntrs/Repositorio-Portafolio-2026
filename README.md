@@ -67,7 +67,23 @@ Tecnologías:
 Ubicación: https://github.com/Guntrs/Fabric
     
   -----------------------------------------------------------------
-## PROYECTO #5 
+
+## PROYECTO #5
+
+- Guatemala Economic Analytics (Finalizado)
+
+Tecnologías:
+- Microsoft Fabric — Arquitectura Medallion completa (Bronze → Silver → Gold)
+- PySpark / Python — transformación y análisis de datos
+- Delta Lake / OneLake — almacenamiento en capas
+- Power BI — dashboards interactivos y KPIs
+- Análisis de correlación entre indicadores económicos
+
+Ubicación: https://github.com/Guntrs/GuatemalaEconomicAnalytics
+
+  
+  -----------------------------------------------------------------
+## PROYECTO #6
 
 WebPersonal
   Tecnologias: 
@@ -78,7 +94,7 @@ WebPersonal
   Ubicacion: https://github.com/Guntrs/WebPersonal_Django
 
 -----------------------------------------------------------------
-## PROYECTO #6
+## PROYECTO #7
 Sistema de Inventario (finalizado)
 
 Tecnologías:
@@ -112,7 +128,7 @@ Usuarios de prueba:
 
 ------------------------------------------------------------------
 
-## PROYECTO #7
+## PROYECTO #8
 Página Informativa (finalizado)
 
 Tecnologías:
