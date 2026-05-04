@@ -66,6 +66,7 @@ Tecnologías:
 
 
 Ubicación: https://github.com/Guntrs/Fabric
+curso Udemy: Microsoft Fabric - La Formación Completa 2026
     
   -----------------------------------------------------------------
 
