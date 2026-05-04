@@ -33,13 +33,13 @@ Ubicación: https://github.com/Guntrs/Angular_Crm/tree/develop
 ------------------------------------------------------------------
 
 ## PROYECTO #3  
-Análisis de Datos (en desarrollo)
+Análisis de Datos 
 
 Tecnologías:
 - Excel  
-- SQL (PostgreSQL)  
-- Power BI  
-- Python  
+- SQL (PostgreSQL en Desarrollo)  
+- Power BI  (en Desarrollo)
+- Python  (Fabric)
 
 Cursos realizados:
 - DataCamp:
@@ -48,14 +48,15 @@ Cursos realizados:
   - Introducción a Python  
 - Udemy:
   - Experto en Análisis y Visualización de Datos  
-  - Todo en Data Science y Machine Learning con Python  
+  - Todo en Data Science y Machine Learning con Python
+  -  
 
 Ubicación: https://github.com/Guntrs/porfolio-data_analyst-gth
 
 -----------------------------------------------------------------
 ## PROYECTO #4  
 
-Curso Fabric (Finalizado)
+Curso Fabric (Análisis de Datos) (Finalizado)
 
 Tecnologías:
 - dominio de los principales componentes de Microsoft Fabric, como Data Engineering, Data Factory, Power BI y Data Warehouse. 
@@ -70,7 +71,7 @@ Ubicación: https://github.com/Guntrs/Fabric
 
 ## PROYECTO #5
 
-- Guatemala Economic Analytics (Finalizado)
+- Guatemala Economic Analytics (Análisis de Datos) (Finalizado)
 
 Tecnologías:
 - Microsoft Fabric — Arquitectura Medallion completa (Bronze → Silver → Gold)
@@ -137,7 +138,7 @@ Tecnologías:
 - Dominio: GoDaddy  
 - Hosting: Mochahost  
 
-Ubicación: https://www.artesaniasandrea.com/
+Ubicación: https://kreaconsultinggroup.com/
 
 ----------------------------------------------------------
 
