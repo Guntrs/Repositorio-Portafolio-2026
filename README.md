@@ -4,7 +4,34 @@ Portafolio profesional 2026 con enlaces a mis proyectos realizados y en desarrol
 
 -----------------------------------------------------------------------------------------------
 
-## PROYECTO #1  
+## PROYECTO #1
+SMS Backend (en desarrollo)
+
+Tecnologías:
+- Base de Datos: Mysql  
+- Backend: Laravel V.12
+- Arquitectura Limpia (Clean Architecture)
+- API REST FULL 
+- Diseño ER: https://app.moqups.com/unsaved/fb8d1eee/edit/page/ad64222d5  
+- Postman  
+- IDE de desarrollo: Visual Studio Code
+
+Ubicación: https://github.com/Guntrs/sms-backend/tree/develop
+
+-----------------------------------------------------------------------------------------------
+
+## PROYECTO #2 
+SMS FrontEnd (en desarrollo)
+
+Tecnologías:
+- IDE de desarrollo: Visual Studio Code    
+- Feature-Sliced Design + Clean Architecture + DDD
+- Stack: React 19 + TypeScript + Vite + TanStack Query + Zustand + Zod + React Hook Form + Axios
+Ubicación: https://github.com/Guntrs/sms_frontend_react
+
+-----------------------------------------------------------------------------------------------
+
+## PROYECTO #3 
 CRM Backend (en desarrollo)
 
 Tecnologías:
@@ -19,7 +46,7 @@ Ubicación: https://github.com/Guntrs/crm-app/tree/develop
 
 -----------------------------------------------------------------------------------------------
 
-## PROYECTO #2  
+## PROYECTO #4 
 CRM FrontEnd (en desarrollo)
 
 Tecnologías:
@@ -32,7 +59,7 @@ Ubicación: https://github.com/Guntrs/Angular_Crm/tree/develop
 
 ------------------------------------------------------------------
 
-## PROYECTO #3  
+## PROYECTO #5 
 Análisis de Datos 
 
 Tecnologías:
@@ -54,7 +81,7 @@ Cursos realizados:
 Ubicación: https://github.com/Guntrs/porfolio-data_analyst-gth
 
 -----------------------------------------------------------------
-## PROYECTO #4  
+## PROYECTO #6
 
 Curso Fabric (Análisis de Datos) (Finalizado)
 
@@ -70,7 +97,7 @@ curso Udemy: Microsoft Fabric - La Formación Completa 2026
     
   -----------------------------------------------------------------
 
-## PROYECTO #5
+## PROYECTO #7
 
 - Guatemala Economic Analytics (Análisis de Datos) (Finalizado)
 
@@ -85,7 +112,7 @@ Ubicación: https://github.com/Guntrs/GuatemalaEconomicAnalytics
 
   
   -----------------------------------------------------------------
-## PROYECTO #6
+## PROYECTO #8
 
 WebPersonal
   Tecnologias: 
@@ -96,7 +123,7 @@ WebPersonal
   Ubicacion: https://github.com/Guntrs/WebPersonal_Django
 
 -----------------------------------------------------------------
-## PROYECTO #7
+## PROYECTO #9
 Sistema de Inventario (finalizado)
 
 Tecnologías:
@@ -130,7 +157,7 @@ Usuarios de prueba:
 
 ------------------------------------------------------------------
 
-## PROYECTO #8
+## PROYECTO # 10
 Página Informativa (finalizado)
 
 Tecnologías:
